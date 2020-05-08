@@ -1,4 +1,4 @@
-An adventure game is a simple worrier game trying to follow the correct path to succeed using python.
+An adventure game is a simple worrier game trying to follow the correct path to succeed using python3.
 # Instruction 
 run python3 adventure_game.py 
 
