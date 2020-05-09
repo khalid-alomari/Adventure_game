@@ -1,5 +1,8 @@
 An adventure game is a simple game with a worrier trying to follow the correct path to succeed using python.
 # Instruction 
-run python3 adventure_game.py 
+run the code by using <code>python3</code>
+<pre>
+python3 adventure_game.py </pre>
 
-to start playing, ENJOY ^_^
+
+To start playing, ENJOY ^_^
