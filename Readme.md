@@ -2,7 +2,7 @@
 An adventure game is a simple game with a worrier trying to follow the correct path to succeed using python.
 
 ## Instructions
-Run the code by using `python3`.
+Run the code by using `python3` After you save the file. Run the code by using `python3` make sure you have the updated one if you don't have it install it from [here](https://www.python.org/downloads/?target=_blank).
 ```shell
 $ python3 adventure_game.py
 ```
